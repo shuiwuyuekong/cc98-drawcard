@@ -12,4 +12,4 @@
 1. 在 cc98.json 填入自己的帐号密码。
 1. `python3 drawCard.py` 不输入参数会提示输入次数
 2. `python3 drawCard.py 次数` <=5000 会被认为是次数
-3. `python3 drawCard.py 魔力值` > 5000 会被之为是魔力值，然后会自动计算可以抽取的次数。
+3. `python3 drawCard.py 魔力值` > 5000 会被认为是魔力值，然后会自动计算可以抽取的次数。
